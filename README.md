@@ -1,1 +1,1 @@
-# francisimperial.github.io-web-visualization-dashboard
+# web-visualization-dashboard
